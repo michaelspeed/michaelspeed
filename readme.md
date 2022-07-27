@@ -12,4 +12,4 @@
 
 [![Michael speed's github trophy](https://github-profile-trophy.vercel.app/?username=michaelspeed&row=1&theme=onedark)](https://github.com/michaelspeed)
 
-![Michael Speed's Trips' Activity Graph](https://activity-graph.herokuapp.com/graph?username=michaelspeed&custom_title=Michael%20Speeds's%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)
+[![Michael Speed's Trips' Activity Graph](https://activity-graph.herokuapp.com/graph?username=michaelspeed&custom_title=Michael%20Speeds's%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](https://github.com/michaelspeed)
