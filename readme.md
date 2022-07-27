@@ -1,7 +1,6 @@
 
-### Michael Speed
-
-# Risha Sringa Changmai
+# Michael Speed
+#### aka (Risha Sringa Changmai)
 
 ![MichaelSpeed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=michaelspeed&show_icons=true&count_private=true&theme=tokyonight)
 
