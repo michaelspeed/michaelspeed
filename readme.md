@@ -11,7 +11,6 @@ Full stack Developer / Architect (30+ Fullstack Projects, 1500+ contribuitons, 2
 ![](https://github-readme-stats.vercel.app/api?username=michaelspeed&theme=merko&hide_border=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=michaelspeed&theme=merko&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=michaelspeed&theme=merko&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=michaelspeed&" alt="michaelspeed" /></p>
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=michaelspeed&limit=5&theme=dark&combine_all_yearly_contributions=true)
