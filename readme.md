@@ -1,5 +1,19 @@
 # 💫 About Me:
-Full stack Developer / Architect (30+ Fullstack Projects, 1500+ contribuitons, 220 lines/day)
+### Full stack Developer / Architect (30+ Fullstack Projects, 1500+ contribuitons, 220 lines/day)
+
+I am an accomplished Full Stack Developer with 8+ years of expertise in building scalable, innovative, and high-performing software solutions. My career spans diverse industries, including fintech, e-commerce, education technology, and blockchain, where I’ve consistently delivered impactful results by blending technical excellence with strategic leadership.
+
+I thrive at the intersection of technology and innovation, specializing in Node.js, AWS, serverless architecture, and React.js, with hands-on experience in microservices and cloud computing. My work reflects a commitment to pushing boundaries, solving complex problems, and creating value-driven solutions.
+
+Key Highlights
+Blockchain Innovation: Integrated Polkadot{.js} with Substrate blockchains for a fintech solution, achieving an 8% improvement in query speeds and enhancing transaction transparency.
+EdTech Transformation: Developed AI-powered question-generation tools using OpenAI, empowering students with personalized practice opportunities and advancing digital learning platforms.
+E-commerce Excellence: Architected a plugin-based framework for a major e-commerce platform, reducing server runtime by 75% and improving system scalability and modularity.
+Geo-Enabled Solutions: Created a geofencing system for a car rental service, leveraging Google Maps APIs to optimize travel routes, fare estimation, and user experience.
+Leadership and Impact
+As a Chief Technology Officer at Oddessemania Private Limited, I led the creation of GuidePe, a transformative travel and booking platform in Northeast India, driving a 40% increase in bookings within its first year. As a Chief Solutions Architect, I reimagined platform efficiency, cutting API-related expenses by 80% through innovative architectural strategies.
+
+I excel in cross-functional collaboration, mentoring teams, and aligning technical solutions with business objectives. Whether developing AI-powered tools, designing blockchain applications, or optimizing e-commerce platforms, I bring a results-driven mindset to every project.
 
 
 ## 🌐 Socials:
