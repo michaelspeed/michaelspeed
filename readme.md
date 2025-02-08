@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Full+stack+Developer+%2F+Architect+(30%2B+Fullstack+Projects%2C+1500%2B+contribuitons%2C+220+lines%2Fday))](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Full+stack+Developer;Architect+(30%2B+Fullstack+Projects%2C+1500%2B+contribuitons%2C+220+lines%2Fday))](https://git.io/typing-svg)
 
 I am an accomplished Full Stack Developer with 8+ years of expertise in building scalable, innovative, and high-performing software solutions. My career spans diverse industries, including fintech, e-commerce, education technology, and blockchain, where I’ve consistently delivered impactful results by blending technical excellence with strategic leadership.
 
